@@ -1,7 +1,7 @@
 {
-  "name": "desafio-08",
+  "name": "desafio-09",
   "version": "1.0.0",
-  "description": "Desafio 08 - Mocks y Normalización",
+  "description": "Desafio 09 - Mocks y Normalización",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
