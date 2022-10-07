@@ -1,1 +1,1 @@
-const socket = io.connect();
+const socket = io.connect(); 
