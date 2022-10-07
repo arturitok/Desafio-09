@@ -98,5 +98,4 @@ class ContainerMongoDB {
     }
 
 }
-
 module.exports = ContainerMongoDB;
