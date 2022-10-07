@@ -31,7 +31,6 @@ const renderMessages = ({messages}) => {
     scrollToBottom();
 }
 
-
 const addMessage = event => {
     event.preventDefault();
 
